@@ -13,6 +13,6 @@ Además, he implementado una funcionalidad en la que al hacer clic en cualquier 
 ## Enlace al repositorio
 
 Puedes encontrar el repositorio de este proyecto en el siguiente enlace:  
-[Repositorio en GitHub](URL_DE_TU_REPOSITORIO)
+[Repositorio en GitHub](https://github.com/elenadiazp/galeriaelena)
 
 
