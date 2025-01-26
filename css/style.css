@@ -1,0 +1,83 @@
+.card picture,
+.card img {
+    max-width: 100%;
+    /* La imagen no excederá el tamaño del card */
+    height: auto;
+    /* Mantiene la proporción de la imagen */
+    display: block;
+    /* Asegura que no haya márgenes extra */
+
+}
+
+.container1 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.card img {
+    border-radius: 10px;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.modal-body img {
+    width: 100%;
+    height: auto;
+    max-height: 75vh;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.modal-body p {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 60%;
+    /* Ajusta este valor según tus necesidades */
+}
+
+.modal-content {
+    backdrop-filter: blur(10px);
+    background-color: rgba(54, 54, 54, 0.736);
+    color: rgb(255, 255, 255);
+}
+
+header {
+    background-image: url(../output-adv/aurora-xlarge-2x..jpg);
+    height: 100vh;
+    color: white;
+    background-position: left center;
+    /* Mueve la imagen de fondo hacia la izquierda */
+    background-size: cover;
+}
+
+section {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+}
+
+section h1 {
+    font-size: 5em;
+}
+
+section img {
+    margin-top: 40px;
+    width: 80px;
+    height: auto;
+}
+section p {
+width: 50%;
+    margin-top: 20px;
+}
