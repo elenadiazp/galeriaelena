@@ -16,3 +16,7 @@ Puedes encontrar el repositorio de este proyecto en el siguiente enlace:
 [Repositorio en GitHub](https://github.com/elenadiazp/galeriaelena)
 
 
+Puedes encontrar la página desplegada en el siguiente enlace:  
+[Página desplegada](https://elenadiazp.github.io/galeriaelena/)
+
+
